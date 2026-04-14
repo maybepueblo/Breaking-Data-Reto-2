@@ -25,17 +25,15 @@ El dominio del problema abarca las siguientes 10 clases: `taza, silla, reloj, bi
 
 
 ### Día 2: Brecha de Seguridad en el Entorno de Test
-Las imágenes de test que evaluaréis han recibido perturbaciones maliciosas a nivel de píxel, es decir, las imágenes pueden contener ataques adversarios.
-
-Tenéis 24 horas para reaccionar y, si lo consideráis oportuno, adaptar vuestro modelo antes de recibir los datos de test.
+Las imágenes de test que evaluaréis han recibido cambios. Daremos un tiempo para adaptaros
 
 ---
 
 
 ### DÍA 3: Contrarreloj de Inferencia
 **Dinámica de la Prueba:**
-* **Hora H:** Liberación del conjunto de Test Adversario (imágenes sin etiquetar).
-* **Hora H + X:** Cierre estricto del buzón de recepción.
+* **9:00:** Liberación del conjunto de Test Adversario (imágenes sin etiquetar).
+* **15:00:** Cierre estricto del buzón de recepción.
 
 ** Formato de Entrega:**
 Antes del tiempo límite, enviad un único archivo `predicciones_nombre_de_equipo.csv` con la misma estructura que `etiquetas.csv`:
