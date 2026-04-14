@@ -33,7 +33,7 @@ Las imágenes de test que evaluaréis han recibido cambios. Daremos un tiempo pa
 ### DÍA 3: Contrarreloj de Inferencia
 **Dinámica de la Prueba:**
 * **9:00:** Liberación del conjunto de Test Adversario (imágenes sin etiquetar).
-* **15:00:** Cierre estricto del buzón de recepción.
+* **14:00:** Cierre estricto del buzón de recepción.
 
 ** Formato de Entrega:**
 Antes del tiempo límite, enviad un único archivo `predicciones_nombre_de_equipo.csv` con la misma estructura que `etiquetas.csv`:
